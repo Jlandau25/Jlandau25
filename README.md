@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jlandau25
-- I have no previous experience with CS, but have always wanted to learn python. 
+- I have no previous experience with CS, but have always wanted to learn Python. 
 
 
 Jlandau25/Jlandau25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
